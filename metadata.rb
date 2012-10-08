@@ -9,6 +9,6 @@ version          "0.0.1"
   supports os
 end
 
-depends "coldfusion902"
+depends "coldfusion10"
 
 recipe "mxunit", "Installs MXUnit and adds a ColdFusion mapping."
